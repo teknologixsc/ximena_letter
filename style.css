@@ -196,6 +196,7 @@ body {
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.5s ease;
+    text-align: justify;
 }
 
 .letter.expanded .letter-content {
